@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/candysample/static/css/main.59b90204.css",
-    "main.js": "/candysample/static/js/main.f7b5ada1.js",
-    "static/media/purple-candy.png": "/candysample/static/media/purple-candy.ae25b8a55e061a50346f.png",
-    "static/media/blue-candy.png": "/candysample/static/media/blue-candy.73120c156936a4206714.png",
-    "static/media/red-candy.png": "/candysample/static/media/red-candy.3658b37c743115db2a9a.png",
-    "static/media/orange-candy.png": "/candysample/static/media/orange-candy.f106b2cdd163575a7c68.png",
-    "static/media/yellow-candy.png": "/candysample/static/media/yellow-candy.a3d87a9b362b5f969133.png",
-    "static/media/green-candy.png": "/candysample/static/media/green-candy.599f70161bdb3cadac66.png",
-    "static/media/blank.png": "/candysample/static/media/blank.fbcb91799ceba75b2e3a.png",
-    "index.html": "/candysample/index.html",
-    "main.59b90204.css.map": "/candysample/static/css/main.59b90204.css.map",
-    "main.f7b5ada1.js.map": "/candysample/static/js/main.f7b5ada1.js.map"
+    "main.css": "/candysample2/static/css/main.59b90204.css",
+    "main.js": "/candysample2/static/js/main.82b6b523.js",
+    "static/media/purple-candy.png": "/candysample2/static/media/purple-candy.ae25b8a55e061a50346f.png",
+    "static/media/blue-candy.png": "/candysample2/static/media/blue-candy.73120c156936a4206714.png",
+    "static/media/red-candy.png": "/candysample2/static/media/red-candy.3658b37c743115db2a9a.png",
+    "static/media/orange-candy.png": "/candysample2/static/media/orange-candy.f106b2cdd163575a7c68.png",
+    "static/media/yellow-candy.png": "/candysample2/static/media/yellow-candy.a3d87a9b362b5f969133.png",
+    "static/media/green-candy.png": "/candysample2/static/media/green-candy.599f70161bdb3cadac66.png",
+    "static/media/blank.png": "/candysample2/static/media/blank.fbcb91799ceba75b2e3a.png",
+    "index.html": "/candysample2/index.html",
+    "main.59b90204.css.map": "/candysample2/static/css/main.59b90204.css.map",
+    "main.82b6b523.js.map": "/candysample2/static/js/main.82b6b523.js.map"
   },
   "entrypoints": [
     "static/css/main.59b90204.css",
-    "static/js/main.f7b5ada1.js"
+    "static/js/main.82b6b523.js"
   ]
 }
